@@ -9,6 +9,7 @@ Your submission must satisfy the following requirements:
 * R4. You need to let your TA know your repository URL and your student ID together.
 * R5. You should not add any file.
 * R6. You shall edit only `my_compress.py`.
+* R7. Your fixed `my_compress.py` should pass all test cases given in `test_compress.py`.
 
 
 
