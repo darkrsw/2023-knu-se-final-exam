@@ -49,6 +49,3 @@ def test_compress8():
         uncompressed = my_compress.load(f)
 
     assert uncompressed[0]["age"] < uncompressed[1]["age"]
-
-if __name__ == '__main__':
-    test_compress8()

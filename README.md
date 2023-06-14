@@ -3,12 +3,13 @@
 
 Your submission must satisfy the following requirements:
 
-* R1. Shall initialize your assignment repository from ___
+* R1. Shall initialize your assignment repository from https://classroom.github.com/a/vwkpVOSE
 * R2. Locate and fix a bug in `my_compress.py` (one bug is injected).
 * R3. Test your `my_compress.py` by using `pytest`.
 * R4. You need to let your TA know your repository URL and your student ID together.
 * R5. You should not add any file.
 * R6. You shall edit only `my_compress.py`.
+* R7. Your fixed `my_compress.py` should pass all test cases given in `test_compress.py`.
 
 
 
