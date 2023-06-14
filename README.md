@@ -10,6 +10,7 @@ Your submission must satisfy the following requirements:
 * R5. You should not add any file.
 * R6. You shall edit only `my_compress.py`.
 * R7. Your fixed `my_compress.py` shall make all test cases given in `test_compress.py` pass.
+* R8. Shall change one single line of `my_compress.py` to fix the program; changing more than one line won't give you points.
 
 
 
